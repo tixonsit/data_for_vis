@@ -1,0 +1,13 @@
+{
+    "embeddings":[
+        {
+            "tensorName":"Vacancy course balanced data",
+            "tensorShape":[
+                7617,
+                79
+            ],
+            "tensorPath":"https://raw.githubusercontent.com/tixonsit/data_for_vis/master/tensor_vac_course_cropped.tsv",
+            "metadataPath":"https://raw.githubusercontent.com/tixonsit/data_for_vis/master/metadata_vac_course_cropped.tsv"
+        }
+    ]
+}
