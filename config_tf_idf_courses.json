@@ -1,7 +1,7 @@
 {
     "embeddings":[
         {
-            "tensorName":"Vacancy data tfidf (classcentr, udac, edx)",
+            "tensorName":"Сourse data tfidf (classcentr, udac, edx)",
             "tensorShape":[
                 4277,
                 18349
